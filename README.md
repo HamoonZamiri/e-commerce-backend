@@ -1,7 +1,6 @@
 # E-Commerce Spring Boot App
 
-A brief description of the project.
-
+Serves as boilerplate  for Spring Boot based microservices applications. Includes an api gateway, and a service discovery server. 
 ## Table of Contents
 
 - [Overview](#overview)
@@ -22,7 +21,6 @@ This project is meant to be a personal template for Spring Boot based microservi
 - Maven
 - Docker
 - MongoDB
-- MySQL
 
 ## Getting Started
 
